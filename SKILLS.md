@@ -22,7 +22,7 @@
 
 ## 🎓 Education & Certifications
 
-- **Bachelor of Information Technology**, Bukidnon State University (BISU)
+- **Bachelor of Science in Computer Science**, Bohol Island State University (BISU)
 - *Certifications and courses to be added*
 
 ---
