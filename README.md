@@ -4,6 +4,8 @@
 
 I'm a passionate **web developer** currently learning and growing in the field of web development. I love building projects that make a difference and collaborating with other developers.
 
+**🌐 [View My Portfolio Website](./portfolio/index.html)**
+
 ---
 
 ## 🔭 About Me
